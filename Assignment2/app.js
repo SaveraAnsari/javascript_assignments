@@ -314,3 +314,4 @@ const person = {
   person.regularMethod(); // 'this' is the 'person' object
   person.arrowMethod();   // 'this' is not bound to 'person', likely the global object or undefined
   
+  let a = 1
